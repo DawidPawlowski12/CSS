@@ -1,0 +1,38 @@
+p#pogrubienie_Pawłowski {
+    font-size: 34px; 
+    color: #8B5FCD;
+}
+
+p#pochylona_Pawłowski {
+    font-size: 39pt; 
+    color: #EFC369; 
+    font-style: italic;
+}
+
+p#index_gorny_Pawłowski {
+    font-size: 1.4cm; 
+    color: #9F9119;
+    vertical-align: super;
+}
+
+p#index_dolny_Pawłowski {
+    font-size: 2.3cm; 
+    color: rgb(23%, 96%, 88%); 
+    vertical-align: sub;
+}
+
+p#mono_Pawłowski {
+    font-size: 44px; 
+    color: #1FE169; 
+    font-family: "Courier New", monospace;
+}
+
+p#powiekszenie_Pawłowski {
+    font-size: 47px;
+    color: #59419B; 
+}
+
+p#pomniejszenie_Pawłowski {
+    font-size: 12px; 
+    color: rgb(74%, 65%, 22%);
+}
